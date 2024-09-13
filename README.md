@@ -1,3 +1,3 @@
 # CodSoft
 
-The project is for my internship program
+This project is for my internship program
